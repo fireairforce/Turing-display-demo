@@ -24,7 +24,8 @@ export const Banner30DataSource = {
           </span>
         ),
       },
-      { name: 'button', className: 'banner3-button', children: '立即报名' },
+      { name: 'button1', className: 'banner3-button', children: '了解详情' },
+      { name: 'button2', className: 'banner3-button', children: '点击报名' },
       {
         name: 'time',
         className: 'banner3-time',
