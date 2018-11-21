@@ -61,18 +61,20 @@ export default class Detail extends React.Component{
                             <br />
                             > 三等奖15名
                             <br />
-                            > 最佳女选手奖
+                            > 最佳女选手奖1名
+                            <br />
+                            > 顽强拼搏奖1名
                             </div>
                       </div>   
                     </TabPane>
                     <TabPane tab={<span><Icon type="notification" />参赛通知</span>} key="3">
                       <div className={styles.content}>
                         <div className={styles.wrapper}>
-                            1、东北大学秦皇岛分校、燕山大学在校生可参加现场赛。
+                            1、东北大学秦皇岛分校、燕山大学等其他河北附近高校在校生可参加现场赛。
                             <br />
                             2、其余高校及社会人士可参加线上邀请赛，报名网络赛后周六统一短信发送比赛账号及密码。
                             <br />
-                            3、入场验证：要求现场赛参赛选手携带学生证在赛前20分钟入场签到核验。网络赛xx点xx分准时开赛。
+                            3、入场验证：要求现场赛参赛选手携带学生证在赛前20分钟入场签到核验。网络赛13点准时开赛(同现场赛)。
                             <br />
                             4、赛事工作人员将全程跟踪，如遇比赛系统崩溃，请保持秩序，工作人员将及时处理。
                             <br />
